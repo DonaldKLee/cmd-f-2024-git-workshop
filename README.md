@@ -1,17 +1,24 @@
 # cmd-f-2024-git-workshop
 
-Hi, I'm Donald!
+### Hi, I'm Donald!
 
-Welcome to my GitHub account!
+Welcome to my <b>GitHub account</b>!
 
-I like sushi, ramen, hiking, and watching TV.
+I like sushi, ramen, hiking, and watching TV!
 
-# Languages i know
+# Languages i know 
+```
 - HTML
 - CSS
 - JavaScript
 - Node.js
 - React
 - Python
+```
 
-Bye
+My website can be found [here]("https://donaldlee.xyz/")!
+
+`Bye!`
+
+I like maltipoos!
+![alt text](image.png)
