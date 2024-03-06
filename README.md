@@ -1,6 +1,6 @@
 # cmd-f-2024-git-workshop
 
-### Hi, I'm Donald!
+### Hi, I'm Charlene!
 
 Welcome to my <b>GitHub account</b>!
 
